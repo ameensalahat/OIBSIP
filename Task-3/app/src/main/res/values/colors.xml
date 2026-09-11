@@ -1,0 +1,15 @@
+<resources>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="op_button">#FFFF9800</color>
+    <color name="num_button">#FF2D2B38</color>
+    <color name="func_button">#FF4A4458</color>
+    <color name="background_dark">#FF121016</color>
+    <color name="screen_bg">#FF1E1B26</color>
+    <color name="icon_button_grey">#FF8B85A0</color>
+    <color name="ripple_light">#33FFFFFF</color>
+    <color name="ripple_dark">#33000000</color>
+</resources>
